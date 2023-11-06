@@ -35,6 +35,8 @@ To get the app up and running on your local environment, follow these steps:
 1. Clone the repository to your local machine:
     ```sh
     git clone https://github.com/hitthecodelabs/DocumentGPTAnalysis.git
+
+    cd DocumentGPTAnalysis
     ```
 2. Navigate to the cloned directory and install the Python dependencies:
     ```sh
