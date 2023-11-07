@@ -1,17 +1,17 @@
-# DocumentGPTAnalysis
+# DocumentGPTAnalysis-GCF
 
 ## Project Overview
 
-Welcome to the DocumentGPTAnalysis! This web application is designed to provide an intuitive interface for users to upload text files from their local system. Our backend, built on Flask (a Python web framework), reads the uploaded files and extracts the contents. These contents are then processed by a powerful language model API, including GPT-3.5 Turbo and GPT-4, to analyze the text and answer specific questions posed by the user.
+Welcome to the DocumentGPTAnalysis-GCF Edition! This specialized web application offers an intuitive platform for users to upload documents and automatically extract answers to the Green Climate Fund's (GCF) key compliance questions. Our backend, powered by Flask, is fine-tuned to process the text within uploaded documents using advanced AI models, including GPT-3.5 Turbo and GPT-4.
 
-The app is an amalgamation of modern web technologies and cutting-edge AI to offer a seamless experience for text analysis. With VueJS crafting the responsive frontend and Flask serving as the robust backend, we aim to deliver an efficient and user-friendly platform that leverages the capabilities of ChatGPT's API to perform deep language understanding and generate insightful responses.
+Leveraging VueJS for a responsive frontend and Flask for a secure backend, the application aims to streamline the GCF's compliance and documentation process. It stands as a nexus of web technology and artificial intelligence, designed specifically to dissect and respond to the stringent requirements of the GCF.
 
 ## Features
 
-- **File Upload System**: Users can easily upload text files from their local machine for analysis.
-- **Text Analysis**: Uploaded content is processed by the backend which interacts with OpenAI's language models.
-- **Question & Answering**: The application responds to user questions by analyzing the text content using ChatGPT's API, capable of insightful and context-aware answers.
-- **GPT-3.5 Turbo and GPT-4 Integration**: Utilizes the latest GPT models for superior language processing.
+- **GCF-Specific File Analysis**: Tailored to address the GCF's first three compliance questions by analyzing user-uploaded documents.
+- **Intelligent Text Extraction**: Processes documents to extract answers relevant to the GCF's compliance inquiries.
+- **Automated Q&A for GCF Compliance**: Automatically analyzes the text and extracts information to answer predefined GCF-related questions.
+- **GPT-3.5 Turbo and GPT-4 Integration**: Employs the most advanced language processing models available for nuanced and precise analysis.
 
 ## Technical Details
 
