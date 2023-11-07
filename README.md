@@ -47,7 +47,7 @@ To get the app up and running on your local environment, follow these steps:
     cd frontend
     npm install
     ```
-4. Enter your OpenAI API key in the `.env` file in the root directory:
+4. Enter your OpenAI API key in the `app.py` file in the root directory:
     ```sh
     import openai
     
