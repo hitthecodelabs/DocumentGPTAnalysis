@@ -48,8 +48,10 @@ To get the app up and running on your local environment, follow these steps:
     npm install
     ```
 4. Enter your OpenAI API key in the `.env` file in the root directory:
-    ```env
-    OPENAI_API_KEY='your-api-key-here'
+    ```sh
+    import openai
+    
+    openai.api_key='your-api-key-here'
     ```
 
 ### Running the Application
