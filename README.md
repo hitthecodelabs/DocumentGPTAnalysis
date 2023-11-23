@@ -1,4 +1,4 @@
-# DocumentGPTAnalysis-GCF
+# GCFDocumentAnalysis-GPT
 
 ## Project Overview
 
