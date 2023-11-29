@@ -64,7 +64,7 @@ To get the app up and running on your local environment, follow these steps:
     ```sh
     npm run serve
     ```
-3. Open your web browser and navigate to `http://localhost:8080` to view the app The Flask project port `http://localhost:8080` works for the backend interation.
+3. Open your web browser and navigate to `http://localhost:8080` to view the app The Flask project port `http://localhost:5000` works for the backend interation.
 
 ## Usage
 
